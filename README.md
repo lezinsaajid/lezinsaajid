@@ -1,4 +1,4 @@
-# Helloo! I'm Lezin Sajid 👋
+# Helloo, I'm Lezin Sajid!! 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=lezinsaajid&label=Profile%20views&color=60598F&style=flat)
 
