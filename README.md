@@ -4,7 +4,7 @@
 
 <div class="github-introduction">
 
-I'm a *Computer Science Engineer* 💻 diving into full-stack development. Currently mastering HTML, CSS, JavaScript while building practical web projects that tackle real-world problems. Passionate about creating apps through clean code, thoughtful design, and user-focused solutions. Always exploring new technologies and love connecting with fellow builders. 🚀✨
+I'm a *Computer Science Student* 💻 diving into full-stack development. Currently mastering HTML, CSS, JavaScript while building practical web projects that tackle real-world problems. Passionate about creating apps through clean code, thoughtful design, and user-focused solutions. Always exploring new technologies and love connecting with fellow builders. 🚀✨
 
 </div>
 
