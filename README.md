@@ -1,5 +1,4 @@
 Hi, I'm Lezin 👋
-![Profile views](https://komarev.com/ghpvc/?username=lezinsaajid&label=Profile%20views&color=60598F&style=flat)
 
 🚀 Full Stack Developer | Building real-world applications  
 💡 Passionate about scalable systems, AI, and user-focused products  
