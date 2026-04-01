@@ -1,13 +1,19 @@
-# Hi, I'm Lezin Sajid!! 👋
+Hi, I'm Lezin 👋
 ![Profile views](https://komarev.com/ghpvc/?username=lezinsaajid&label=Profile%20views&color=60598F&style=flat)
 
-I'm a *Computer Science Student* 💻 diving into full-stack development. Currently mastering HTML, CSS, JavaScript while building practical projects that tackle real-world problems. Passionate about creating apps through clean code, thoughtful design, and user-focused solutions. Always exploring new technologies and love connecting with fellow builders. 🚀✨ 
+🚀 Full Stack Developer | Building real-world applications  
+💡 Passionate about scalable systems, AI, and user-focused products  
 
-</div> 
+🔧 Tech Stack:
+React Native | Node.js | PostgreSQL | MongoDB  
 
-- 💼 Open to freelance gigs, internships, or product roles? Hit me up via <a href="mailto:lezinsajid@gmail.com">email</a> 
+📌 Featured Projects:
+- HikerNet – Trekking platform  
+- DollarDairy – Expense tracker  
 
-- 💬 Ask away about projects or career tips! 
+🌍 Deployed apps with real-world use cases  
+
+📫 Open to opportunities
 
 ---
 ## 📈 My GitHub Stats <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=lezinsaajid&custom_title=Lezin%20Sajid's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" /> <br> </div>
