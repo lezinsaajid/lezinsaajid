@@ -1,22 +1,90 @@
-Hi, I'm Lezin 👋
+# Hi, I'm Lezin 👋
 
-🚀 Full Stack Developer | Building real-world applications  
-💡 Passionate about scalable systems, AI, and user-focused products  
+### Building products at the intersection of technology, AI, and user experience.
 
-🔧 Tech Stack:
-React Native | Node.js | PostgreSQL | MongoDB  
+I'm a Computer Science graduate passionate about turning real user problems into thoughtful digital products. I enjoy taking ideas from problem discovery and product thinking to design, development, and deployment.
 
-📌 Featured Projects:
-- HikerNet – Trekking platform  
-- DollarDairy – Expense tracker  
+Currently exploring opportunities in:
 
-🌍 Deployed apps with real-world use cases  
-
-📫 Open to opportunities
+- Product Management (APM)
+- Founder's Office
+- Strategy & Operations
 
 ---
-## 📈 My GitHub Stats <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=lezinsaajid&custom_title=Lezin%20Sajid's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" /> <br> </div>
 
-Check out my pinned repos!!
+## 🚀 Featured Products
 
-<p align="center"> <a href="https://www.instagram.com/lezinsaajid/"> <img src="https://skillicons.dev/icons?i=instagram" /> </a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/lezinsajid/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>&nbsp;&nbsp; <a href="https://github.com/lezinsaajid"> <img src="https://skillicons.dev/icons?i=github" /> </a>&nbsp;&nbsp; <a href="mailto:lezinsajid@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a>&nbsp;&nbsp; <a href="https://x.com/lezinsajid?s=21"> <img src="https://skillicons.dev/icons?i=twitter"/> </a>&nbsp;&nbsp; </p>
+### Ascendra
+Career Operating System helping job seekers organize applications, resumes, and career progress in one place.
+
+**Current Focus**
+- Career OS redesign
+- AI-powered career insights
+- Product case study & PRD
+
+---
+
+### DollarDiary
+AI-powered personal finance tracker that lets users understand their spending through natural language conversations.
+
+---
+
+### HikerNet
+Community platform connecting trekkers, guides, and adventure enthusiasts through trip discovery and planning.
+
+---
+
+## 🛠 Tech I Work With
+
+Frontend
+- Angular
+- React
+- React Native
+- TypeScript
+- Tailwind CSS
+
+Backend
+- FastAPI
+- Node.js
+- Express
+- PostgreSQL
+- MongoDB
+
+Tools
+- Docker
+- Git
+- Figma
+- Postman
+
+AI
+- OpenAI
+- Anthropic Claude
+- Prompt Engineering
+
+---
+
+## 🌱 Currently Learning
+
+- Product Management
+- Product Analytics (Tableau, SQL)
+- AI Product Design
+- Growth & Metrics
+
+---
+
+## 📈 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lezinsaajid&custom_title=Lezin%20Sajid's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true"/>
+
+---
+
+## 🌍 Let's Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/lezinsajid/">LinkedIn</a> •
+<a href="https://github.com/lezinsaajid">GitHub</a> •
+<a href="mailto:lezinsajid@gmail.com">Email</a> •
+<a href="https://x.com/lezinsajid">X</a>
+</p>
+
+⭐ Check out my pinned repositories below—they represent products I've taken from idea to deployment.
